@@ -1,2 +1,3 @@
 # is-on-the-screen
-Is on the screen react component
+
+Simple react component to know when some element is contained on the visible screen
