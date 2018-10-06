@@ -1,0 +1,22 @@
+{
+  "name": "is-on-the-screen",
+  "version": "0.0.1",
+  "description": "Simple component to know when something is contained on the visible screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciomase/is-on-the-screen.git"
+  },
+  "author": "patricio.mase@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciomase/is-on-the-screen/issues"
+  },
+  "homepage": "https://github.com/patriciomase/is-on-the-screen#readme",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  }
+}
